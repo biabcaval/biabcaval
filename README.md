@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and using them to handle everyday situations.
 - 🎓 &nbsp; Studying Data Science and AI at the Federal University of the State of Paraíba, in Brazil.
 - 💼 &nbsp; Working as a research intern at MoisesAi.
-- 🌱 &nbsp; Learning more about Fullstack development and Deep Learning architecture.
+- 🌱 &nbsp; Learning more about Deep Learning architectures and hyperparams.
 - ✍️ &nbsp; Pursuing Electric guitar and reading fantasy books as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
