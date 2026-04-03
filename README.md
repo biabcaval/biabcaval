@@ -29,14 +29,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Power BI]()
 <br/>
-
-<a href="https://github.com/biabcaval">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biabcaval&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biabcaval&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -46,4 +39,3 @@
 <a href="mailto:biabcavalcantii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/biabcavalcantii@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [biabcaval](https://github.com/biabcaval)
