@@ -1,13 +1,13 @@
 
-<h2> Hey there! I'm Bia.</h2>
+<h2>Hey there, nothing much here just writing in colorful letters.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and using them to handle everyday situations.
-- 🎓 &nbsp; Studying Data Science and AI at the Federal University of the State of Paraíba, in Brazil.
-- 💼 &nbsp; Working as a research intern at MoisesAi.
+- 🎓 &nbsp; Bs Data Science and AI.
 - 🌱 &nbsp; Learning more about Deep Learning architectures and hyperparams.
 - ✍️ &nbsp; Pursuing Electric guitar and reading fantasy books as hobbies/side hustles.
+- Check my website for more info about me!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
